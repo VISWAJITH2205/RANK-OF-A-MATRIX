@@ -23,7 +23,7 @@ print(rank)
 ```
 ## Output:
 
-![Uploading Screenshot 2025-08-21 093805.png…]()
+<img width="223" height="118" alt="Screenshot 2025-08-21 093805" src="https://github.com/user-attachments/assets/4406f2de-f054-4874-bc09-8cc7748fb057" />
 
 
 ## Result:
