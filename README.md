@@ -23,7 +23,8 @@ print(rank)
 ```
 ## Output:
 
-<img width="223" height="118" alt="Screenshot 2025-08-21 093805" src="https://github.com/user-attachments/assets/4406f2de-f054-4874-bc09-8cc7748fb057" />
+<img width="444" height="723" alt="Screenshot 2025-08-25 211640" src="https://github.com/user-attachments/assets/9fccdb93-eef5-492c-8be6-3a99ac9f6cdc" />
+
 
 
 ## Result:
